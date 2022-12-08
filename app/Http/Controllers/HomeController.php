@@ -79,7 +79,7 @@ class HomeController extends Controller
             
         }
             
-        print_r($command); die;
+        // print_r($command); die;
     }
 
 }
